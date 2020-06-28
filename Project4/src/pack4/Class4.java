@@ -1,8 +1,11 @@
 package pack4;
 
-public class Class4 {
-
-	public static void main(String[] args) {
+public class Class4 
+{
+	int x=10,y=20,z;
+	
+	public static void main(String[] args) 
+	{
 		// TODO Auto-generated method stub
 		System.out.println("iam Class4");
 		System.out.println("added second line ..");
