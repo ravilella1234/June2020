@@ -8,7 +8,6 @@ public class Class4 {
 		System.out.println("added second line ..");
 		System.out.println("added Third line ..");
 		System.out.println("added fourth line ..");
-		
 	}
 
 }
